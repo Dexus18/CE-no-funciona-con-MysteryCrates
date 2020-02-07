@@ -1,0 +1,22 @@
+intente de todas formas pero Ce no es compatible con MysteryCrates porque cada ves intento ponerlo se crashea . ejemplo :
+common:
+    drops:
+      - name: "§a§lG Sword§r"
+        id: 276
+        meta: 20
+        amount: 1
+       *** enchantments:
+             poison:
+               level: 5 ***
+        lore: "Power"
+      - id: 366
+        meta: 60
+        amount: 16
+      - id: 264
+        meta: 20
+        amount: 3
+    block: "173:0"
+    broadcast:
+      enable: true
+      command: "say \"%PLAYER%\" is opening Common Crate at /crates"
+      necesito ayuda :(
